@@ -5,7 +5,25 @@
 [![Inertia.js](https://img.shields.io/badge/Inertia.js-2.x-9553E9?style=for-the-badge&logo=inertia&logoColor=white)](https://inertiajs.com/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![PHP](https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
-[![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg?style=for-the-badge)](LICENSE)
+
+## License
+
+Copyright © 2026 Umar Ajmal. All Rights Reserved.
+
+This source code is publicly available for viewing and educational
+reference purposes only.
+
+No permission is granted to copy, reproduce, modify, distribute,
+publish, sublicense, sell, or use this code or substantial portions
+of this code for commercial or production purposes without prior
+written permission from the copyright holder.
+
+For commercial use, redistribution, modification, or any other use
+beyond viewing and learning, please contact the copyright holder
+for written permission.
+
+---
 
 An enterprise-grade **Point of Sale (POS) and Enterprise Resource Planning (ERP)** software suite engineered specifically for **Graphics Design Houses, Panaflex & Flex Printing, Vinyl & Banner Production, Signage Manufacturers**, as well as general retail POS businesses.
 
@@ -262,9 +280,8 @@ The application is configured to run on a single port without requiring a separa
 
 ## 📄 License & Credits
 
-Developed for **Graphics & Panaflex POS ERP Solutions**.
-
-Maintained by **[Muhammad Umar Ajmal](https://github.com/UmarAjmal)**.  
+Developed and owned by **Muhammad Umar Ajmal**.  
 Repository: [https://github.com/UmarAjmal/Graphics-Buissnes-POS.git](https://github.com/UmarAjmal/Graphics-Buissnes-POS.git)
 
-Distributed under the **MIT License**.
+**Copyright © 2026 Umar Ajmal. All Rights Reserved.**  
+This source code is proprietary and confidential. Strictly for viewing and educational evaluation. For commercial use or licensing inquiries, please contact the author. Refer to the [LICENSE](LICENSE) file for full legal terms.
